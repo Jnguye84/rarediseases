@@ -1,0 +1,79 @@
+.heading {
+    font-size: 5em;
+    font-weight: bold;
+    margin-bottom: 10em;
+    margin-left: 6em;
+    color: black;
+    margin-top: 10em;
+
+}
+
+/* Resetting default button styles */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #007bff; /* default button background color */
+  color: #fff; /* default button text color */
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+  background-color: #0056b3; /* darker shade for hover effect */
+}
+
+/* Button focus effect */
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus {
+  box-shadow: 0 0 0 2px #007bff; /* adding a blue border when button is focused */
+}
+
+/* Button active effect */
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+  transform: translateY(1px); /* slightly move the button down when clicked */
+}
+
+/* Example of different button styles */
+.primary-button {
+  background-color: #007bff;
+}
+
+.secondary-button {
+  background-color: #6c757d;
+}
+
+.success-button {
+  background-color: #28a745;
+}
+
+.warning-button {
+  background-color: #ffc107;
+}
+
+.danger-button {
+  background-color: #dc3545;
+}
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  margin-top: -200px; /* Adjust this value to move the buttons up */
+}

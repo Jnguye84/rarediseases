@@ -47,7 +47,10 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-- NORD
+- National Organization for Rare Disorders (NORD)
+- ADCY5.org
+- Jocelyn Duff from CMT4j
+- Harvard University Biotechnology Club
 - Special thanks to the patients, families, and doctors who have shared their stories and experiences, inspiring this project.
 
 ## Contact

@@ -1,7 +1,15 @@
 # Friends of ADCY5
+A social network for rare diseases.
+
 Josh Cancio, Manas Nair, Jessica Nguyen, Hammad Usmani
 
 This repository for version control hosts code for the app associated with **Friends of ADCY5**.
+
+## Demo
+
+[![Demonstration of the Social Network app](http://img.youtube.com/vi/nMjota5Zhok/0.jpg)](https://www.youtube.com/watch?v=nMjota5Zhok "Friends of ADCY5 Video")
+
+Screenshots are also available in the `/docs` folder.
 
 ## Overview
 
@@ -35,16 +43,15 @@ We welcome contributions from researchers, developers, healthcare professionals,
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
+- NORD
 - Special thanks to the patients, families, and doctors who have shared their stories and experiences, inspiring this project.
-- Our research and development efforts are supported by contributions from the rare disease community and dedicated volunteers.
 
 ## Contact
 
-For more information, support, or to contribute to the project, please contact [insert contact information].
+For more information, support, or to contribute to the project, please contact one of the authors.
 
 Let's work together to make a difference in the rare disease community, starting with ADCY5-related Dyskinesia.
-

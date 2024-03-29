@@ -1,6 +1,7 @@
 import googlemaps
 
-API_KEY='AIzaSyDKNEVpcm4209xjTIvifzjmva8qKsJQe4s'
+print('Please replace API key for Google maps')
+API_KEY=''
 
 def getLatLng(place):
     '''
